@@ -1,0 +1,62 @@
+body{
+    background-image: url("shop.jpeg");
+    
+    background-size: cover;
+    
+    text-align:center;
+    font-size: large;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    
+    
+}
+
+button{
+    font-weight:200;
+    font-size: 30px;
+    width: 400px;
+    background-color: black;
+    color:white;
+    padding-top: 20px;
+    
+    border-radius: 20px;
+}
+
+#blackJackButton{
+    background-color: green;
+    color: goldenrod;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+span{
+    border-style: double;
+}
+
+#increase_by_one{
+    background:darkred;
+    color: white;
+}
+#decrease_by_one{
+    background:darkred;
+    color: white;
+}
+
+
+
+h1{
+    font-size: 140px;
+    font-weight: 700px;
+    color:blue;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color:black;
+}
+h3{
+    color:gold;
+    font-size: 50px;
+    text-align: left;
+}
